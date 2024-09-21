@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F8C8DC;
+}
+
+.header_text {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(213, 121, 184);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.next_text{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(183, 72, 148);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 300px;
+}
